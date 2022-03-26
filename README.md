@@ -9,6 +9,9 @@ but they can also store edited files locally so they can be edited again.
 There are many online programming videos on the internet. However, many people often buy courses but get stuck on installing programming software, 
 or only learn programming through videos, lack understanding, and thinking process, and often feel bored and sleepy.
 
+In order to solve this pain point, I specially designed a series of practical contents, so that everyone can write programs more easily, 
+and the process of learning programs can be more interesting and more fulfilling!
+
 ## Environment
 - Jupyter Notebook
 
