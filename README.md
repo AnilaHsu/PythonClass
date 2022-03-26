@@ -14,8 +14,8 @@ and the process of learning programs can be more interesting and more fulfilling
 
 
 ## Python Introduce
-[Python Mind Map](https://github.com/simple1017/Python_Class/blob/master/Python.pdf)
-![Python Mind Map](https://user-images.githubusercontent.com/50144690/160225123-ca10be1c-572d-4554-a8a4-8d993a6e3f61.jpg)
+<img width="1768" alt="Python Mind Map" src="https://user-images.githubusercontent.com/50144690/160235230-1417dafe-0c4f-4165-a80b-48ea913acb4a.png">
+
 
 
 ## [Let's Start Practice!!](https://mybinder.org/v2/gh/simple1017/Python_Class.git/master)
