@@ -8,7 +8,7 @@ but they can also store edited files locally so they can be edited again.
 
 ## Python Introduce
 [Python Mind Map](https://github.com/simple1017/Python_Class/blob/master/Python.pdf)
-<img width="906" alt="Python Mind Map" src="https://user-images.githubusercontent.com/50144690/160225066-66dec622-97aa-4684-8969-e7bf96e2ee0f.png">
+![Python Mind Map](https://user-images.githubusercontent.com/50144690/160225123-ca10be1c-572d-4554-a8a4-8d993a6e3f61.jpg)
 
 ## Course Practice Links
-[Start Practice!](https://mybinder.org/v2/gh/simple1017/Python_Class.git/master)
+[Let's Start Practice!](https://mybinder.org/v2/gh/simple1017/Python_Class.git/master)
