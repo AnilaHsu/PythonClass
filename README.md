@@ -12,13 +12,11 @@ or only learn programming through videos, lack understanding, and thinking proce
 In order to solve this pain point, I specially designed a series of practical contents, so that everyone can write programs more easily, 
 and the process of learning programs can be more interesting and more fulfilling!
 
+
 ## Python Introduce
 [Python Mind Map](https://github.com/simple1017/Python_Class/blob/master/Python.pdf)
 ![Python Mind Map](https://user-images.githubusercontent.com/50144690/160225123-ca10be1c-572d-4554-a8a4-8d993a6e3f61.jpg)
 
-
-## Environment
-- Jupyter Notebook
 
 ## [Let's Start Practice!](https://mybinder.org/v2/gh/simple1017/Python_Class.git/master)
 
