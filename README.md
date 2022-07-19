@@ -1,4 +1,4 @@
-# Python_Class
+# Python Class 
 This is a series of practical courses to learn Python from scratch,
 designed for friends and colleagues who want to learn to program but don't know where to start.
 
